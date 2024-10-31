@@ -1,0 +1,4 @@
+{
+  "dotnet.preferCSharpExtension": true,
+  "dotnet.defaultSolution": "biomax/Samples/FK623Attend/c#/FKAttendDllCSSample.sln"
+}
